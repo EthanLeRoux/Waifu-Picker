@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    background-color: bisque;
+    padding: 10px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+}
+
+h3{
+    background-color: bisque;
+    color: white;
+}
+
+.imgholder{
+    border-style: solid;
+    padding: 10px;
+    border-color: bisque;
+}
+
+.imgframe{
+    border-block: 10px;
+    border-style: solid;
+    border-color: bisque;
+}
+
+.pickBtn{
+    border-style: none;
+    background-color: rgb(255, 198, 196);
+    padding: 15px;
+    border-radius: 5px
+};
